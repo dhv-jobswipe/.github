@@ -1,12 +1,4 @@
-## Hi there 👋
+## JOB SWIPE 👋
+In the context of modern society, job seeking and recruitment have become essential needs. However, this process often encounters many difficulties and challenges. Job seekers spend a lot of time and effort searching for information about suitable jobs, while recruiters also face difficulties in reaching and selecting potential candidates.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Recognizing these limitations, the project "Building a support system to connect recruiters and job seekers" was born with the aim of solving the above problems. This system will act as an effective bridge, helping to connect job seekers and recruiters quickly and conveniently. By providing support tools and features, the system will help job seekers easily find jobs that match their abilities and interests, while helping recruiters access a source of high-quality candidates.
